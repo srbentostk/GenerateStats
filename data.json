@@ -1,0 +1,16 @@
+{
+  "id": 677580,
+  "name": "Rookie",
+  "description": "Just a Nice Description Text for the Rookie",
+  "image": "replacelink.com/IllusionRookie.png",
+  "nFT_Type": 3,
+  "properties": {
+    "PlushieDomain": "Illusion",
+    "GuardianClass": "Giant",
+    "Stats": { "Speed": 5 },
+    "Trait1": 3,
+    "Trait2": 4,
+    "Trait3": 3,
+    "Trait4": 5
+  }
+}
