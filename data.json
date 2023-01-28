@@ -1,16 +1,1 @@
-{
-  "id": 677580,
-  "name": "Rookie",
-  "description": "Just a Nice Description Text for the Rookie",
-  "image": "replacelink.com/IllusionRookie.png",
-  "nFT_Type": 3,
-  "properties": {
-    "PlushieDomain": "Illusion",
-    "GuardianClass": "Giant",
-    "Stats": { "Speed": 5 },
-    "Trait1": 3,
-    "Trait2": 4,
-    "Trait3": 3,
-    "Trait4": 5
-  }
-}
+{"id":"","name":"Rookie","description":"Just a Nice Description Text for the Rookie","image":"replacelink.com/DreamerRookie.png","nFT_Type":3,"properties":{"PlushieDomain":"Dreamer","GuardianClass":"Giant","Stats":{"Speed":4},"Trait1":4,"Trait2":3,"Trait3":5,"Trait4":1}}
